@@ -1,0 +1,19 @@
+.custom-align-left {
+    justify-content: flex-start;
+    margin-left: 1000px;
+}
+
+.bg-blue-100 {
+    /* Replace 'background-image-url' with the URL of your background image */
+    background-image: url('./the-sun-dawn-waterfall-iceland-wallpaper-preview.jpg');
+    /* Set background size and position */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+
+  /* FrontPage.css */
+.input-text {
+    width: 400px; /* Adjust the width as needed */
+  }
+  
